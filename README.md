@@ -8,3 +8,7 @@
 * Datatables.net
 * LocalStorage
 * Hash Link
+
+## Login Information
+Username : HeL
+Password : 1
