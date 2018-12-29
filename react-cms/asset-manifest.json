@@ -1,10 +1,10 @@
 {
   "main.css": "/react-cms/static/css/main.c59731ba.chunk.css",
-  "main.js": "/react-cms/static/js/main.51c5f7e1.chunk.js",
-  "main.js.map": "/react-cms/static/js/main.51c5f7e1.chunk.js.map",
+  "main.js": "/react-cms/static/js/main.1af2f461.chunk.js",
+  "main.js.map": "/react-cms/static/js/main.1af2f461.chunk.js.map",
   "static/css/1.a20950e0.chunk.css": "/react-cms/static/css/1.a20950e0.chunk.css",
-  "static/js/1.f7eb2b19.chunk.js": "/react-cms/static/js/1.f7eb2b19.chunk.js",
-  "static/js/1.f7eb2b19.chunk.js.map": "/react-cms/static/js/1.f7eb2b19.chunk.js.map",
+  "static/js/1.1b955706.chunk.js": "/react-cms/static/js/1.1b955706.chunk.js",
+  "static/js/1.1b955706.chunk.js.map": "/react-cms/static/js/1.1b955706.chunk.js.map",
   "runtime~main.js": "/react-cms/static/js/runtime~main.0f4d9fbb.js",
   "runtime~main.js.map": "/react-cms/static/js/runtime~main.0f4d9fbb.js.map",
   "static/media/logo.svg": "/react-cms/static/media/logo.5d5d9eef.svg",
@@ -12,6 +12,6 @@
   "static/css/main.c59731ba.chunk.css.map": "/react-cms/static/css/main.c59731ba.chunk.css.map",
   "static/css/1.a20950e0.chunk.css.map": "/react-cms/static/css/1.a20950e0.chunk.css.map",
   "index.html": "/react-cms/index.html",
-  "precache-manifest.99ee045d8e67c4f0751319db26eb8116.js": "/react-cms/precache-manifest.99ee045d8e67c4f0751319db26eb8116.js",
+  "precache-manifest.d2f53eebe77de485393a50afbaf2be6c.js": "/react-cms/precache-manifest.d2f53eebe77de485393a50afbaf2be6c.js",
   "service-worker.js": "/react-cms/service-worker.js"
 }
